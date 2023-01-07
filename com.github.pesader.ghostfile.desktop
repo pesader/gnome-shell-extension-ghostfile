@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Ghostfile
+NoDisplay=true
+Comment=A haunting application
+Icon=terminal
+Exec=gnome-terminal
+Actions=
+Categories=Utility;
+

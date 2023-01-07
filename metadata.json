@@ -1,0 +1,8 @@
+{
+  "name": "Ghostfile",
+  "description": "Make a desktop file appear and disappear",
+  "uuid": "ghostfile@pesader.github.com",
+  "shell-version": [
+    "43"
+  ]
+}
